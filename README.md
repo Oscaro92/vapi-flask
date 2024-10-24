@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ##### Configuration localhost
 
-Lancement d'un serveur [ngrok](https://ngrok.com/) pour obtenir un lien public auquel vous pouvez accéder depuis n'importe où sur internet, comme si votre application était hébergée en ligne.
+Lancement d'un serveur [ngrok](https://ngrok.com/) afin d'obtenir un lien public auquel vous pouvez accéder depuis n'importe où sur internet, comme si votre application était hébergée en ligne.
 ```shell
 ngrok http 5000
 
@@ -30,7 +30,7 @@ ngrok http 5000
 ./ngrok.exe http 5000
 ```
 
-## 🚀 Usage
+## 🚀 Utilisation
 
 ```shell
 python app.py
