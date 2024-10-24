@@ -5,22 +5,26 @@ Serveur d'API pour les webhook [VAPI](https://vapi.ai/).
 
 ## 🔧 Installation
 
+Clone projet
 ```shell
-# Clone the repository
 git clone https://github.com/<your-username>/vapi-flask.git
 cd vapi-flask
+```
 
-# Create a virtual environment
+Création d'un environment virtuel
+```shell
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 # or
 .\venv\Scripts\activate  # Windows
+```
 
-# Install dependencies
+Installation des dépendances
+```shell
 pip install -r requirements.txt
 ```
 
-##### Configuration localhost
+Configuration ngrok
 
 Lancement d'un serveur [ngrok](https://ngrok.com/) afin d'obtenir un lien public auquel vous pouvez accéder depuis n'importe où sur internet, comme si votre application était hébergée en ligne.
 ```shell
@@ -42,7 +46,7 @@ python app.py
 mail-agent/
 ├── app.py              # Serveur d'api 
 ├── function.py         # Fonction de Google calendar 
-├── requirements.txt    # Dependences
+├── requirements.txt    # Dépendences
 └── README.md           # Documentation
 ```
 
