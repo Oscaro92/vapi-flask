@@ -1,5 +1,5 @@
 # VAPI flask
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=flat&logo=ngrok)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat&logo=googlecalendar&logoColor=white) ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 
 Serveur d'API pour les webhook [VAPI](https://vapi.ai/).
 
