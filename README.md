@@ -7,7 +7,7 @@ Serveur d'API pour les webhook [VAPI](https://vapi.ai/).
 
 Clone projet
 ```shell
-git clone https://github.com/<your-username>/vapi-flask.git
+git clone https://github.com/Oscaro92/vapi-flask.git
 cd vapi-flask
 ```
 
