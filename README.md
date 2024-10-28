@@ -43,7 +43,7 @@ python app.py
 ## 📁 Structure du projet
 
 ```
-mail-agent/
+vapi-flask/
 ├── app.py              # Serveur d'api 
 ├── function.py         # Fonction de Google calendar 
 ├── requirements.txt    # Dépendences
